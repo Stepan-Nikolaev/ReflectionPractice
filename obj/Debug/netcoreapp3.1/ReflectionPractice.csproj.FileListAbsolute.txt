@@ -1,0 +1,12 @@
+D:\Степапка\DEX\Практические занятие\ReflectionPractice\ReflectionPractice\ReflectionPractice\bin\Debug\netcoreapp3.1\ReflectionPractice.exe
+D:\Степапка\DEX\Практические занятие\ReflectionPractice\ReflectionPractice\ReflectionPractice\bin\Debug\netcoreapp3.1\ReflectionPractice.deps.json
+D:\Степапка\DEX\Практические занятие\ReflectionPractice\ReflectionPractice\ReflectionPractice\bin\Debug\netcoreapp3.1\ReflectionPractice.runtimeconfig.json
+D:\Степапка\DEX\Практические занятие\ReflectionPractice\ReflectionPractice\ReflectionPractice\bin\Debug\netcoreapp3.1\ReflectionPractice.runtimeconfig.dev.json
+D:\Степапка\DEX\Практические занятие\ReflectionPractice\ReflectionPractice\ReflectionPractice\bin\Debug\netcoreapp3.1\ReflectionPractice.dll
+D:\Степапка\DEX\Практические занятие\ReflectionPractice\ReflectionPractice\ReflectionPractice\bin\Debug\netcoreapp3.1\ReflectionPractice.pdb
+D:\Степапка\DEX\Практические занятие\ReflectionPractice\ReflectionPractice\ReflectionPractice\obj\Debug\netcoreapp3.1\ReflectionPractice.csprojAssemblyReference.cache
+D:\Степапка\DEX\Практические занятие\ReflectionPractice\ReflectionPractice\ReflectionPractice\obj\Debug\netcoreapp3.1\ReflectionPractice.AssemblyInfoInputs.cache
+D:\Степапка\DEX\Практические занятие\ReflectionPractice\ReflectionPractice\ReflectionPractice\obj\Debug\netcoreapp3.1\ReflectionPractice.AssemblyInfo.cs
+D:\Степапка\DEX\Практические занятие\ReflectionPractice\ReflectionPractice\ReflectionPractice\obj\Debug\netcoreapp3.1\ReflectionPractice.dll
+D:\Степапка\DEX\Практические занятие\ReflectionPractice\ReflectionPractice\ReflectionPractice\obj\Debug\netcoreapp3.1\ReflectionPractice.pdb
+D:\Степапка\DEX\Практические занятие\ReflectionPractice\ReflectionPractice\ReflectionPractice\obj\Debug\netcoreapp3.1\ReflectionPractice.genruntimeconfig.cache

@@ -1,0 +1,1 @@
+Name : Треугольник, SideCount : 3, SideLength : 10
