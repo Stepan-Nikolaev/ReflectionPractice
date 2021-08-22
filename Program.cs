@@ -25,9 +25,9 @@ namespace ReflectionPractice
 
             var method = typeFigure.GetMethods(BindingFlags.Public | BindingFlags.Instance).Where(x => x.Name == "DisplayMessage").First();
 
-            String[] argumentsMethod = new string[] { "message" };
+            String[] methodArguments = new string[] { "message" };
 
-            method.Invoke(newObject, argumentsMethod);
+            method.Invoke(newObject, methodArguments);
 
             var privateProperties = typeFigure.GetProperties(BindingFlags.NonPublic | BindingFlags.Instance);
 
