@@ -18,5 +18,13 @@ namespace ReflectionPractice
 
             return valuesObjectLine;
         }
+
+        public string GetNameObject<T>(T obj)
+        {
+            var typeObject = obj.GetType();
+            var nameObject = typeObject.Name;
+
+            return nameObject;
+        }
     }
 }
